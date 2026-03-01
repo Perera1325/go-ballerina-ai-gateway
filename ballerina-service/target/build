@@ -1,0 +1,57 @@
+{
+  "last_build_time": 1772340486683,
+  "last_update_time": 1772340486683,
+  "last_bal_toml_update_time": 1772340435805,
+  "distribution_version": "2201.13.1",
+  "last_modified_time": {
+    "ballerina_service": 1772340469167
+  },
+  "last_build_options": {
+    "testReport": false,
+    "codeCoverage": false,
+    "skipTests": true,
+    "compilationOptions": {
+      "experimental": false,
+      "observabilityIncluded": true,
+      "cloud": "",
+      "dumpGraph": false,
+      "dumpRawGraphs": false
+    }
+  },
+  "src_meta_info": [
+    {
+      "file": "C:\\Users\\vikum\\go-ballerina-ai-gateway\\ballerina-service\\Ballerina.toml",
+      "hash": "bfbba75a2299e397ac6d77d9249eb6a0782b50d2a4d1090799d25e6f87586144",
+      "size": 142,
+      "lastModifiedTime": 1772340435805
+    },
+    {
+      "file": "C:\\Users\\vikum\\go-ballerina-ai-gateway\\ballerina-service\\service.bal",
+      "hash": "ac7efd8f1faad42dd5a4f24af48a33e30e0b3905ab1fbe2332c6a71f4d940af1",
+      "size": 471,
+      "lastModifiedTime": 1772340469167
+    }
+  ],
+  "target_exec_meta_info": {
+    "file": "C:\\Users\\vikum\\go-ballerina-ai-gateway\\ballerina-service\\target\\backup\\bin\\ballerina_service.jar",
+    "hash": "0c56fb9b405a8f2daea03ab78349f4b6cdd8461ad65194f3cd7062d6e73d9a5c",
+    "size": 46812966,
+    "lastModifiedTime": 1772340488513
+  },
+  "settings_meta_info": {
+    "file": "C:\\Users\\vikum\\.ballerina\\Settings.toml",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "lastModifiedTime": 1768668178641
+  },
+  "ballerina_toml_meta_info": {
+    "file": "C:\\Users\\vikum\\go-ballerina-ai-gateway\\ballerina-service\\Ballerina.toml",
+    "hash": "bfbba75a2299e397ac6d77d9249eb6a0782b50d2a4d1090799d25e6f87586144",
+    "size": 142,
+    "lastModifiedTime": 1772340435805
+  },
+  "imports": [
+    "ballerina/http",
+    "ballerina/log"
+  ]
+}
