@@ -1,0 +1,6 @@
+# Ballerina
+ballerina-service/target/
+
+# Go
+*.exe
+*.out
