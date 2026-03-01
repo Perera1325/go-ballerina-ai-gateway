@@ -9,7 +9,7 @@ import (
 var (
 	lastResetTime  time.Time
 	requestCounter int
-	requestLimit   = 5
+	requestLimit   = 100000
 	mutex          sync.Mutex
 )
 
